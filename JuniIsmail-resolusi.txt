@@ -4,6 +4,10 @@ JuniIsmail-Resolusi
 -membuat blog
 -klaborasi dengan banyak expert
 -Struktur data dasar
+ coba-fitur-2
+laravel
+
 javascript
 *framework
 riect
+ master
