@@ -4,3 +4,5 @@ JuniIsmail-Resolusi
 -membuat blog
 -klaborasi dengan banyak expert
 -Struktur data dasar
+javascript
+*framework
