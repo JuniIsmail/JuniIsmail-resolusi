@@ -3,3 +3,4 @@ JuniIsmail-Resolusi
 -Membuat platform pengelolaan video
 -membuat blog
 -klaborasi dengan banyak expert
+-Struktur data dasar
